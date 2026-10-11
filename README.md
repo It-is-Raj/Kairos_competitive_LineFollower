@@ -1,6 +1,6 @@
 # LazyDragon Kairos — Line Follower Controller
 
-![LazyDragon Kairos line follower controller — bottom view](assets/bottom_view.png)
+![LazyDragon Kairos line follower controller — bottom view](assets/top_view.png)
 
 The **LazyDragon Kairos** is a complete line-follower controller on a single
 board: an Arduino-compatible **ATmega328P**, **USB programming**, a **2-3S LiPo**
